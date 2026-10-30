@@ -1,6 +1,6 @@
 [package]
 name = "cdnf"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 license = "Unlicense OR MIT"
 repository = "https://github.com/SlimiestSlimy/cdnf"
