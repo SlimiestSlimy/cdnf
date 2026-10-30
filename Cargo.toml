@@ -1,0 +1,10 @@
+[package]
+name = "cdnf"
+version = "0.1.0"
+edition = "2024"
+license = "Unlicense OR MIT"
+repository = "https://github.com/SlimiestSlimy/cdnf"
+description = "The Colon Dash and Newline Format: natural text a program reads too, read and written"
+
+[profile.release]
+debug = "line-tables-only"
